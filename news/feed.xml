@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://misskittin.github.io/assets/feed.xsl" ?>
+<rss version="2.0"><channel>
+<title>MissKittin@GitHub - News</title>
+<link>/post/feed.xml</link>
+<item>
+<title>Pierwsze koty za płoty</title>
+<link>https://misskittin.github.io/news/pierwsze-koty-za-ploty</link>
+<pubDate>Fri, 18 Dec 2020 00:00:00 +0100</pubDate>
+<description>	&lt;link rel="stylesheet" href="/news/pierwsze-koty-za-ploty/style.css"&gt;
+	&lt;p class="quotation"&gt;I don't speak London.&lt;/p&gt;
+	&lt;p&gt;I created this page as a testing ground for my static site generator. If you like this template, it's included with it (template-simpleblog), but you'll have to do the details yourself.&lt;/p&gt;
+	&lt;p&gt;If you want to know what Simpleblog is, see the &lt;a href="/projects/old#simpleblog"&gt;descriptions of my old projects&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;Here you will find news about my projects and my experiences with IT.&lt;/p&gt;
+	&lt;p&gt;However, if you prefer to read in your news feed reader, grab the link: &lt;a href="/news/feed.xml"&gt;https://misskittin.github.io/news/feed.xml&lt;/a&gt;&lt;/p&gt;
+	&lt;p class="quotation"&gt;Have fun!&lt;/p&gt;</description>
+</item>
+</channel></rss>
