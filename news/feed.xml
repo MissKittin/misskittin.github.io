@@ -4,6 +4,18 @@
 <title>MissKittin@GitHub - News</title>
 <link>https://misskittin.github.io/news/feed.xml</link>
 <item>
+<title>Bash SSG v1.0 has been released</title>
+<link>https://misskittin.github.io/news/bash-ssg-v1-0-has-been-released</link>
+<pubDate>Sun, 27 Dec 2020 00:00:00 +0100</pubDate>
+<description>	&lt;p&gt;The stable version of my random thought generator is ready, &lt;strong&gt;but the most importantly:&lt;/strong&gt; IT WORKS!&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;I'll warn you right away:&lt;/strong&gt; setting up the database takes some time. If you are missing a variable, you can use &lt;code&gt;set &gt;&amp;2&lt;/code&gt; or look at the module's &lt;code&gt;generate&lt;/code&gt; script.&lt;/p&gt;
+	&lt;p&gt;The remaining errors will come out over time, for now everything is fine.&lt;/p&gt;
+	&lt;p&gt;My site project is divided into two repositories: &lt;code&gt;database&lt;/code&gt; is on my server (because all rights reserved) and &lt;a target="_blank" href="https://github.com/MissKittin/misskittin.github.io"&gt;&lt;code&gt;generated&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;Additionally, I can update the generator's guts by doing a &lt;code&gt;git pull&lt;/code&gt;.&lt;/p&gt;
+	&lt;p&gt;You can &lt;a href="https://github.com/MissKittin/bash-ssg/archive/refs/tags/v1.0.zip"&gt;download zipball&lt;/a&gt; || if "${you_want_to_be_able_to_update}"; then &lt;a target="_blank" href="https://github.com/MissKittin/bash-ssg"&gt;clone straight from GitHub&lt;/a&gt;; fi&lt;/p&gt;
+	&lt;p&gt;Or not. You know what? Write your own! You'll see how much fun it is &amp;#128512;&lt;/p&gt;</description>
+</item>
+<item>
 <title>Pierwsze koty za płoty</title>
 <link>https://misskittin.github.io/news/pierwsze-koty-za-ploty</link>
 <pubDate>Fri, 18 Dec 2020 00:00:00 +0100</pubDate>
