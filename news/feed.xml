@@ -4,6 +4,16 @@
 <title>MissKittin@GitHub - News</title>
 <link>https://misskittin.github.io/news/feed.xml</link>
 <item>
+<title>PHP-JS-CSS web toolkit v1.0</title>
+<link>https://misskittin.github.io/news/php-toolkit-v1-0</link>
+<pubDate>Wed, 12 Feb 2020 00:00:00 +0100</pubDate>
+<description>	&lt;p class="quotation"&gt;The first version of my toolkit is ready&lt;/p&gt;
+	&lt;p&gt;I tested it on PHP 7.1.0, 7.4.33 and 8.2.24. There are still many things to do, it's not perfect yet but the most important things are done and working.&lt;/p&gt;
+	&lt;p&gt;Now is the time to test the project on the battlefield. Any bugs I find will be fixed in the next release.&lt;/p&gt;
+	&lt;p&gt;Unfortunately, you will have to wait for the next release, as running such a project on your own is very time-consuming.&lt;/p&gt;
+	&lt;p&gt;&lt;a href="/projects#php-js-css-web-toolkit"&gt;More information about the project can be found here&lt;/a&gt;.&lt;/p&gt;</description>
+</item>
+<item>
 <title>Bash SSG v1.0 has been released</title>
 <link>https://misskittin.github.io/news/bash-ssg-v1-0-has-been-released</link>
 <pubDate>Sun, 27 Dec 2020 00:00:00 +0100</pubDate>
